@@ -6,12 +6,6 @@
 <br>
 https://youtu.be/EC76ALAq3qo
 
-<b> :בסרטון זה אסביר ואדגים איך אני פורץ \ משתלט על מערכת הפעלה של </b>
-<br>
-<b><i> Win 7</i></b>
-<br>
-<b> :ונכבה אותה ממערכת הפעלה של </b> 
-<br>
-<b><u> Kali Linux</u></b>
 
+<b> Explain and demonstrate how I hack/attack/control <i>Windows 7</i> operating system and turn it off from <i>Kali Linux</i> operating system.</b>
 
